@@ -8,8 +8,9 @@ layout {
             plugin location="zellij:status-bar"
         }
     }
-    tab name="Editor" focus=true cwd="~/Personal/programming"
-    tab name="Terminal" cwd="~/Personal/programming"
+    tab name="Editor" focus=true cwd="~/Personal/programming/42"
+    tab name="Terminal" cwd="~/Personal/programming/42"
+    tab name="Misc" cwd="~"
 }
 
 keybinds {
